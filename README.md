@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://byshaden.github.io"><img src="https://img.shields.io/badge/Portfolio-byshaden.github.io-a78bfa?style=for-the-badge&labelColor=0b0f16" alt="Portfolio: byshaden.github.io" /></a>
+</p>
+
+<p align="center">
   <img src="assets/about.svg" width="100%" alt="About: AI Specialist with a Bachelor's in Artificial Intelligence. Education, toolkit and current focus." />
 </p>
 
