@@ -1,6 +1,6 @@
 <picture>
-    <source media="(max-width: 700px)" srcset="assets/notebook-mobile-v2.svg" />
-    <img src="assets/notebook-v2.svg" width="100%" alt="shaden.ipynb: Shaden Abdullah, AI Specialist. I build AI solutions end to end with a focus on NLP, RAG systems and Computer Vision. B.Sc. Artificial Intelligence (2025), AI Models Bootcamp at Tuwaiq Academy (2026). Focus: RAG and LLMs, Arabic NLP, Computer Vision, AI for Healthcare, Legal Tech." />
+    <source media="(max-width: 700px)" srcset="assets/notebook-mobile-v3.svg" />
+    <img src="assets/notebook-v3.svg" width="100%" alt="shaden.ipynb: Shaden Abdullah, AI Specialist. I build AI solutions end to end with a focus on NLP, RAG systems and Computer Vision. B.Sc. Artificial Intelligence (2025), AI Models Bootcamp at Tuwaiq Academy (2026). Focus: RAG and LLMs, Arabic NLP, Computer Vision, AI for Healthcare, Legal Tech." />
 </picture>
 
 #### ⚙️ `import toolkit`
