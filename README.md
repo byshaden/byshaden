@@ -5,7 +5,7 @@
 
 #### ⚙️ `import toolkit`
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,docker,mysql,git,github&theme=dark&perline=10" alt="Python, TensorFlow, PyTorch, scikit-learn, OpenCV, FastAPI, Docker, MySQL, Git, GitHub" />
+<img src="assets/toolkit.svg" width="420" alt="Python, TensorFlow, PyTorch, scikit-learn, OpenCV, FastAPI, Docker, MySQL, Git, GitHub" />
 
 <sub>also: LangChain · Pinecone · FAISS · YOLOv8 · Streamlit · MLflow</sub>
 
