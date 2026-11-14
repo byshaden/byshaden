@@ -13,6 +13,4 @@
 
 <a href="https://byshaden.github.io"><img src="https://img.shields.io/badge/Portfolio-byshaden.github.io-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b0f16" alt="Portfolio" /></a>
 <a href="mailto:shaden.alshahrani02@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f16" alt="Email shaden.alshahrani02@gmail.com" /></a>
-<img src="https://komarev.com/ghpvc/?username=byshaden&label=profile%20views&color=a78bfa&style=for-the-badge" alt="Profile views" />
-
 <p align="center"><sub><code>me.projects</code> ↓ pinned below</sub></p>
